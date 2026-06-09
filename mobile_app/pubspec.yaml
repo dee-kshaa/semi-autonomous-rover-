@@ -8,6 +8,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  http: ^1.2.2
+  shared_preferences: ^2.3.2
+  geolocator: ^13.0.1
+  connectivity_plus: ^6.0.5
+  network_info_plus: ^6.0.1
+  workmanager: ^0.5.2
 
 flutter:
   uses-material-design: true
